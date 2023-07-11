@@ -4,7 +4,7 @@ import {visionTool} from '@sanity/vision'
 import {schemaTypes} from './schemas'
 
 export default defineConfig({
-  name: 'default',
+  name: "Super lady's diary",
   title: 'superladydiarybackend',
 
   projectId: '07zvxgi5',
